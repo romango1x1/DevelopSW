@@ -10,7 +10,5 @@ fun printMessage() {
 }
 
 fun vivaMechMat() {
-    repeat(10) {
-        println("Viva Mech-mat faculty")
-    }
+    println("Viva Mech-mat faculty!!!")
 }
